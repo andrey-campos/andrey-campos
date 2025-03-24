@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋
+I'm Andrey Campos, a student at Drexel University double majoring in Mathematics and Computer Science.
+About Me
 
-<!--
-**andrey-campos/andrey-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Python developer passionate about quantitative finance and machine learning
+🧠 Focusing on computer vision applications in financial analysis
+🚀 Currently working on DragonFlow and an open-source portfolio optimization project
+📈 I build algorithms that analyze financial markets
+💻 I enjoy exploring Python's deep internals and writing clean, optimized code
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python (NumPy, Pandas, PyTorch, TensorFlow, OpenCV, SciPy)
+📊 Data analysis and visualization
+🔢 Statistical modeling and mathematical optimization
+🌐 Web development with Flask and Svelte
+
+Connect with Me
+
+📱 Instagram: @andreycampos.ai for coding tutorials and insights
+📫 Email: andreybarriga4@gmail.com
+💼 LinkedIn
+
+When I'm not coding, I'm exploring new machine learning research papers and contributing to open-source projects!
