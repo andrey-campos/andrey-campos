@@ -1,15 +1,14 @@
 # Hi there 👋
 
-I'm Andrey Campos, a student at Drexel University double majoring in Mathematics and Computer Science.
+I'm Andrey Campos, a student researcher at Drexel University double majoring in Mathematics and Computer Science.
 
 ## About Me
-- Python developer passionate about research within quantitative finance and machine learning
--  Focusing on computer vision applications in financial analysis
--  Currently working on a course scheduler/recommendation start-up for Drexel Students DragonFlow, and an open-source portfolio optimization project using computer vision to analyze financial data.
+- Python developer passionate about research within quantitative research and machine learning
+-  Focusing on algorithmic trading and game theory
+-  Currently working on an open-source portfolio optimization project and machine learning research related to startegic classification.
 
 I also create videos about Python and quant research on [@andreycampos.ai](https://instagram.com/andreycampos.ai), exploring the deep internals of the language and applications on financial algorithms and AI research..
 
-  
 ## Tech
 - 🐍 Python (NumPy, Pandas, PyTorch, TensorFlow, OpenCV, SciPy)
 - 📊 Data analysis and visualization
